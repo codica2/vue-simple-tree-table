@@ -1,4 +1,4 @@
-# vue-tree-table
+# Vue tree table
 
 Vue tree table is a vue js table component, with a tree functionality.
 
